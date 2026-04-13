@@ -37,10 +37,10 @@ This project is a comprehensive Financial Analytics Dashboard built using Power 
 ---
 
 ## 📸 Dashboard Preview
-<img width="1400" height="786" alt="Financial Dashboard -pg2 Profatibility Analysis" src="https://github.com/user-attachments/assets/eec3af91-d227-4410-95a9-7f8553e76cb3" />
-<img width="1397" height="788" alt="Financial Dashboard -pg1 Executive Summary" src="https://github.com/user-attachments/assets/900958e2-a221-4bd9-84a3-9ef759ce492a" />
-<img width="1403" height="788" alt="Financial Dashboard -pg 4 Forecasting Visualisation" src="https://github.com/user-attachments/assets/40605ff0-5d80-483d-8c1d-b049a8206fef" />
-<img width="1397" height="786" alt="Financial Dashboard -pg 3 Sales Trend Analysis" src="https://github.com/user-attachments/assets/3889eadf-be66-4c61-af12-74d268924926" />
+<img width="1397" height="788" alt="Financial Dashboard -pg1 Executive Summary" src="https://github.com/user-attachments/assets/696caecb-9fcb-4490-af1e-2471593f9642" />
+<img width="1400" height="786" alt="Financial Dashboard -pg2 Profatibility Analysis" src="https://github.com/user-attachments/assets/d8c5fded-e03d-44ed-ad66-b385eaffe2d2" />
+<img width="1397" height="786" alt="Financial Dashboard -pg 3 Sales Trend Analysis" src="https://github.com/user-attachments/assets/4987dd26-dea8-4e1d-9220-fc25a2b1f295" />
+<img width="1403" height="788" alt="Financial Dashboard -pg 4 Forecasting Visualisation" src="https://github.com/user-attachments/assets/7f5de1e3-5fbd-4d38-a2f4-78d43ec4a3c8" />
 
 
 ---
